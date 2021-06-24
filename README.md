@@ -1,5 +1,5 @@
 # LocalizaLabs .NET Developer
-![Capa](https://github.com/filipembraga/localiza-labs-net-developer/blob/main/thumbnail-1.png)
+![Capa](https://github.com/maiksonstrife/Gerenciador-de-Pessoas-DIO/blob/main/thumbnail-1.png)
 
 ## Descrição
  Aprenda a construir do zero uma API REST com Spring Boot para cadastro e gerenciamento de pessoas de uma organização, até o Deploy na nuvem (Heroku). Pratique e veja os principais conceitos do estilo arquitetural REST envolvidos durante o desenvolvimento do projeto.
